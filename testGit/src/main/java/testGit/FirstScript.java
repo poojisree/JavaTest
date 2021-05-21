@@ -7,7 +7,7 @@ public class FirstScript {
 		 int x = 10;
 		 int y = 20;
 		 int a = x + y ;
-		 
+	// sum of the 2 numbers 
 		
 		System.out.println("sum" +a);
 		
